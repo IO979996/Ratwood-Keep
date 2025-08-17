@@ -72,7 +72,7 @@
 /datum/skill/combat/whipsflails
 	name = "Whips & Flails"
 	dreams = list(
-		"..."
+		"...the crack of the whip echoes through the air as you lash out, striking with precision—first wrapping around your opponent's weapon to disarm them, then coiling around their legs to pull them down. The flail whirls in your grip, its heavy head smashing through weak armor, leaving your enemies stumbling and disoriented. You dance just out of reach, teasing them with quick snaps before delivering a crushing blow to their exposed limbs, making every strike count..."
 	)
 
 /datum/skill/combat/bows
@@ -84,13 +84,13 @@
 /datum/skill/combat/crossbows
 	name = "Crossbows"
 	dreams = list(
-		"..."
+		"...the weight of the crossbow feels steady in your hands as you crank the mechanism, loading a bolt with practiced efficiency. You take aim, holding your breath—then release. The bolt thuds into your target with a satisfying *thunk*, piercing through leather and padding like parchment. Reloading swiftly, you pick off foes one by one, each shot a calculated strike. At close range, you even use the crossbow as a makeshift club, smashing the stock into an overconfident attacker's jaw before finishing them with a point-blank shot..."
 	)
 
 /datum/skill/combat/wrestling
 	name = "Wrestling"
 	dreams = list(
-		"..."
+		"...your muscles strain as you grapple with your opponent, twisting their arm into a lock before slamming them onto the ground. Every movement is calculated—using their weight against them, flipping them over your hip, or driving a knee into their ribs. You feel their resistance fade as you tighten a chokehold, their breaths growing shallow. When they try to escape, you yank them back by the leg, dragging them across the floor like a ragdoll before pinning them down for good..."
 	)
 
 /datum/skill/combat/unarmed
@@ -102,11 +102,11 @@
 /datum/skill/combat/firearms
 	name = "Firearms"
 	dreams = list(
-		"..."
+		"...the gun's recoil kicks against your palm as you fire, the smell of gunpowder thick in the air. You adjust your stance, steadying your aim—each shot finds its mark, punching through armor with ruthless efficiency. When a foe gets too close, you pistol-whip them across the temple, then finish them with a shot to the chest. Reloading becomes second nature, your fingers moving on instinct as you keep the barrage going, turning the battlefield into a symphony of smoke and lead..."
 	)
 
 /datum/skill/combat/slings
 	name = "Slings"
 	dreams = list(
-		"..."
+		"...you spin the sling overhead, feeling the rhythm before releasing—the stone whizzes through the air, striking your target with a sharp *crack*. You load another, this time aiming for the kneecap, sending your enemy crumpling to the ground. With practiced ease, you weave between shots, using the terrain to your advantage. Rocks become deadly projectiles, smashing into helmets, breaking fingers, or even knocking teeth out—proving that even the simplest weapon can be lethal in skilled hands..."
 	)
